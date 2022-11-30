@@ -4,7 +4,7 @@
 This webapp was developed using Flask Web Framework. These models used to predict the diseases were trained on large Datasets.
 This app can predict:
 
- Heart Disease  --> 85.25%  accuracy of model 
+ Heart Disease  --> 85.25%  accuracy of model <br>
  Kidney Disease --> 99%     accuracy of model
 
 
