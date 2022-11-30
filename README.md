@@ -34,5 +34,3 @@ python app.py
 - Heart Model Dataset =https://www.kaggle.com/ronitf/heart-disease-uci
 - Kidney Model Dataset =https://www.kaggle.com/mansoordaku/ckdisease
 
-## NOTE
-==> Python version 3.6.8 was used for the whole project.<br>
